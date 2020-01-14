@@ -2,7 +2,7 @@ package fi.academy;
 
 public class Main {
 
-    public void print() {
+    public static void main(String[] args) {
         System.out.println("Hello World!");
     }
 }
